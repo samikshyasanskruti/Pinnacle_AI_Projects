@@ -1,0 +1,141 @@
+raw_text,emails,phones,name,skills,education,experience
+"Samikshya Sanskruti Swain
+Email: samikshya3009@gmail.com | Phone: +91-8926148570
+GitHub: github.com/samikshyasanskruti | LinkedIn:
+linkedin.com/in/samikshya-sanskruti-swain
+Professional Summary
+Aspiring Computer Science Engineer with hands-on experience in deep
+learning, computer vision, web development, and game design. Passionate
+about building intelligent systems and interactive software. Enthusiastic
+contributor to open-source communities like GSSoC.
+Education
+Bachelor of Technology (B.Tech) – Computer Science Engineering
+Siksha ‘O’ Anusandhan University, Bhubaneswar
+September 2023 – June 2027 (Expected)
+Technical Skills
+• Languages: Python, Java, C++, JavaScript, Assembly
+• Web Technologies: HTML, CSS, React
+• Databases: MySQL
+• Libraries & Frameworks: NumPy, Pandas, Scikit-learn, Matplotlib
+• Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, Tableau,
+Godot Engine, EMU8086
+• Others: OpenCV, MediaPipe, Flask
+Projects
+Human Activity Recognition
+Python, NumPy, Pandas, Scikit-learn, Matplotlib
+• Developed a hybrid CNN-BiLSTM model to classify six types of human
+activity using the UCI HAR dataset.
+• Applied dropout regularization and batch normalization to optimize
+performance.
+• Evaluated model with classification report, confusion matrix, ROC-AUC
+curve, and accuracy/loss plots.
+• GitHub: Human Activity Recognition Project
+Emotion Detection System
+Python, HTML, CSS
+• Developed a real-time emotion detection web app using deep learning
+and OpenCV.
+• Integrated with Flask backend and built a responsive front-end UI.
+• Recognizes multiple facial emotions from live webcam input.
+Virtual Computer
+Python, NumPy, OpenCV, MediaPipe
+• Built a hand-gesture-based virtual computer interface.
+• Enabled gesture-based interaction with a virtual mouse and keyboard.
+DSA Chatbot
+HTML, CSS, JavaScript
+• Created a chatbot to help users learn and revise Data Structures &
+Algorithms.
+• Designed a clean front-end UI and implemented response logic with
+JavaScript.
+Amazon Clone Website
+HTML, CSS
+• Developed a pixel-perfect front-end clone of the Amazon homepage.
+• Ensured responsive design and clean layout with semantic HTML/CSS.
+Demon Slayer 2D Game
+Godot Engine, GDScript
+• Designed a 2D platformer inspired by “Demon Slayer” anime.
+• Added mechanics like enemy AI, scoring, and character animations.
+Balloon Blaster Game
+Assembly Language, EMU8086
+• Programmed a 2D shooting game in x86 Assembly.
+• Used interrupts for graphics, bullet logic, and control mechanisms.
+• GitHub: Balloon Game
+AI Trading Bot (In Progress)
+Python, Machine Learning, Pandas, NumPy, yFinance API
+• Designing an AI-based bot to analyze market trends and make trading
+decisions.
+• Working on predictive modeling, backtesting, and real-time stock
+monitoring.
+Certifications
+• Deloitte Australia Cyber Job Simulation – Forage (July 2025): Simulated
+incident response, log investigation, and suspicious activity analysis.
+• Deloitte Australia Data Analytics Simulation – Forage (July 2025): Built a
+Tableau dashboard; analyzed business data using Excel.
+• Deloitte Australia Technology Simulation – Forage (July 2025): Proposed
+a dashboard app design as part of a virtual product development team.
+Achievements & Community Contributions
+• GSSoC ’25 Contributor – Actively contributed to open-source projects
+during GirlScript Summer of Code 2025.",['samikshya3009@gmail.com'],['+91-8926148570'],"Samikshya Sanskruti Swain
+Email","['api', 'c++', 'computer vision', 'css', 'deep learning', 'excel', 'flask', 'git', 'html', 'java', 'javascript', 'machine learning', 'matplotlib', 'mysql', 'numpy', 'opencv', 'pandas', 'python', 'react', 'scikit-learn', 'sql', 'tableau']","['Education\nBachelor of Technology (B.Tech) – Computer Science Engineering\nSiksha ‘O’ Anusandhan University, Bhubaneswar\nSeptember 2023 – June 2027 (Expected)\nTechnical Skills\n• Languages: Python, Java, C++, JavaScript, Assembly\n• Web Technologies: HTML, CSS, React\n• Databases: MySQL\n• Libraries & Frameworks: NumPy, Pandas, Scikit-learn, Matplotlib\n• Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, Tableau,\nGodot Engine, EMU8086\n• Others: OpenCV, MediaPipe, Flask\nProjects\nHuman Activity Recognition\nPython, NumPy, Pandas, Scikit-learn, Matplotlib\n• Developed a hybrid CNN-BiLSTM model to classify six types of human\nactivity using the UCI HAR dataset.']",['Aspiring Computer Science Engineer with hands-on experience in deep']
+"Kunal Routray
+Email: kunalroutray91221@gmail.com | Phone: +91-7008602621
+GitHub: github.com/KunalRoutray | LinkedIn: linkedin.com/in/kunal-routray-95721128a
+Professional Summary 
+Aspiring Computer Science Engineer with hands-on experience in deep learning, computer vision, web development, game design, and multimedia editing (photo & video). Passionate about building intelligent systems and interactive software. Enthusiastic contributor to open-source communities like GSSoC.
+
+Education 
+Bachelor of Technology (B.Tech) – Computer Science Engineering 
+Siksha ‘O’ Anusandhan University, Bhubaneswar 
+September 2023 – June 2027 (Expected) 
+Technical Skills 
+Languages: Python, Java, C++, JavaScript, Assembly 
+Web Technologies: HTML, CSS, React 
+Databases: MySQL 
+Libraries & Frameworks: NumPy, Pandas, Scikit-learn, Matplotlib 
+Tools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, Tableau, 
+Godot Engine, EMU8086 
+• Editing & Design Tools: Adobe Photoshop, Adobe Premiere Pro, After Effects, Canva, CapCut, Filmora
+Others: OpenCV, MediaPipe, Flask 
+Projects 
+Human Activity Recognition 
+Python, NumPy, Pandas, Scikit-learn, Matplotlib 
+Developed a hybrid CNN-BiLSTM model to classify six types of human activity using the UCI HAR dataset. 
+Applied dropout regularization and batch normalization to optimize performance. 
+Evaluated model with classification report, confusion matrix, ROC-AUC curve, and accuracy/loss plots. 
+GitHub: Human Activity Recognition Project 
+Emotion Detection System 
+Python, HTML, CSS 
+Developed a real-time emotion detection web app using deep learning and OpenCV. 
+Integrated with Flask backend and built a responsive front-end UI. 
+Recognizes multiple facial emotions from live webcam input. 
+Virtual Computer 
+Python, NumPy, OpenCV, MediaPipe 
+Built a hand-gesture-based virtual computer interface. 
+Enabled gesture-based interaction with a virtual mouse and keyboard. 
+DSA Chatbot 
+HTML, CSS, JavaScript 
+Created a chatbot to help users learn and revise Data Structures & Algorithms. 
+Designed a clean front-end UI and implemented response logic with JavaScript. 
+Amazon Clone Website 
+HTML, CSS 
+Developed a pixel-perfect front-end clone of the Amazon homepage. 
+Ensured responsive design and clean layout with semantic HTML/CSS. 
+Demon Slayer 2D Game 
+Godot Engine, GDScript 
+Designed a 2D platformer inspired by “Demon Slayer” anime. 
+Added mechanics like enemy AI, scoring, and character animations. 
+Balloon Blaster Game 
+Assembly Language, EMU8086 
+Programmed a 2D shooting game in x86 Assembly. 
+Used interrupts for graphics, bullet logic, and control mechanisms. 
+GitHub: Balloon Game 
+AI Trading Bot (In Progress) 
+Python, Machine Learning, Pandas, NumPy, yFinance API 
+Designing an AI-based bot to analyze market trends and make trading decisions. 
+Working on predictive modeling, backtesting, and real-time stock monitoring. 
+Certifications 
+Deloitte Australia Cyber Job Simulation – Forage (July 2025): Simulated incident response, log investigation, and suspicious activity analysis. 
+Deloitte Australia Data Analytics Simulation – Forage (July 2025): Built a Tableau dashboard; analyzed business data using Excel. 
+Deloitte Australia Technology Simulation – Forage (July 2025): Proposed a dashboard app design as part of a virtual product development team. 
+Achievements & Community Contributions 
+• GSSoC ’25 Contributor – Actively contributed to open-source projects during GirlScript Summer of Code 2025. 
+ ",['kunalroutray91221@gmail.com'],"['+91-7008602621', '95721128']",Bhubaneswar,"['api', 'c++', 'computer vision', 'css', 'deep learning', 'excel', 'flask', 'git', 'html', 'java', 'javascript', 'machine learning', 'matplotlib', 'mysql', 'numpy', 'opencv', 'pandas', 'python', 'react', 'scikit-learn', 'sql', 'tableau']","['Education \nBachelor of Technology (B.Tech) – Computer Science Engineering \nSiksha ‘O’ Anusandhan University, Bhubaneswar \nSeptember 2023 – June 2027 (Expected) \nTechnical Skills \nLanguages: Python, Java, C++, JavaScript, Assembly \nWeb Technologies: HTML, CSS, React \nDatabases: MySQL \nLibraries & Frameworks: NumPy, Pandas, Scikit-learn, Matplotlib \nTools & Platforms: Git, GitHub, VS Code, Jupyter Notebook, Tableau, \nGodot Engine, EMU8086 \n• Editing & Design Tools: Adobe Photoshop, Adobe Premiere Pro, After Effects, Canva, CapCut, Filmora\nOthers: OpenCV, MediaPipe, Flask \nProjects \nHuman Activity Recognition \nPython, NumPy, Pandas, Scikit-learn, Matplotlib \nDeveloped a hybrid CNN-BiLSTM model to classify six types of human activity using the UCI HAR dataset.']","['Aspiring Computer Science Engineer with hands-on experience in deep learning, computer vision, web development, game design, and multimedia editing (photo & video). Passionate about building intelligent systems and interactive software. Enthusiastic contributor to open-source communities like GSSoC.']"
